@@ -12,9 +12,7 @@
 ### Tela de Login:
 ![Captura de tela 2025-01-31 161117](https://github.com/user-attachments/assets/b258566b-adc0-41c8-ac5c-aee0cc4bbf2e)
 
-## Quer acessar o site do meu projeto ?
 
-🌐 https://leticia-rezende.github.io/Instragram/
 
 
   
