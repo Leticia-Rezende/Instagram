@@ -3,7 +3,7 @@
 
 - Objetivo: aprimorar e aprender a usar as linguagens;
 
-  ### Teconologias utilizadas 🖥️:
+  ### Tecnologias utilizadas 🖥️:
 
 - CSS
 - HTML
